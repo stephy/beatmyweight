@@ -65,7 +65,7 @@ function App() {
         <div className="container mx-auto px-4">
           <div className="flex items-center gap-3">
             <Scale className="w-8 h-8" />
-            <h1 className="text-3xl font-bold">Weight Loss Challenge 2024</h1>
+            <h1 className="text-3xl font-bold">Weight Loss Challenge 2025</h1>
           </div>
           <p className="mt-2 text-indigo-100">
             January 12 - April 11 • 3 Months • 4 Participants
@@ -98,7 +98,7 @@ function App() {
             <div>
               <h3 className="font-semibold text-lg text-gray-800 mb-2">Duration & Check-ins</h3>
               <ul className="list-disc list-inside space-y-1">
-                <li>Challenge runs for 3 months (January 12 - April 11, 2024)</li>
+                <li>Challenge runs for 3 months (January 12 - April 11, 2025)</li>
                 <li>Weekly check-ins required for weight, BMI, and body fat percentage</li>
                 <li>Measurements should be taken consistently, preferably in the morning</li>
               </ul>

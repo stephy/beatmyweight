@@ -1,8 +1,8 @@
 import { addWeeks, format } from 'date-fns';
 import { Participant } from './types';
 
-const startDate = new Date('2024-01-12');
-const endDate = new Date('2024-04-11');
+const startDate = new Date('2025-01-12');
+const endDate = new Date('2025-04-11');
 
 export const participants: Participant[] = [
   {
